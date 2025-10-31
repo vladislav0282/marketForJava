@@ -1,0 +1,6 @@
+vite.config.ts
+dist/
+.prettierrc.js
+.eslintrc.js
+
+.env*
